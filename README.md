@@ -1,4 +1,4 @@
-# Calculator-project
+  #calci project
 from tkinter import *
 import math
 root = Tk()
